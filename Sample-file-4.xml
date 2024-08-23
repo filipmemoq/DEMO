@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./Sample-file-4-xml.xsd">
+	<title>Translating XML documents</title>
+	<section>
+		<heading>Simple sentences</heading>
+		<p>This is a sentence.</p>
+		<p>This is a new sentence.</p>
+		<p>This is another new sentence.</p>
+	</section>
+	<section>
+		<heading>Numbers</heading>
+		<p>In this document there are 114 words. </p>
+		<p>Sentence number 1 contains 4 words.</p>
+		<p>This sentence contains a currency unit (1,500.00 USD).</p>
+		<p>This sentence contains a date: December 12, 2011</p>
+	</section>
+	<section>
+		<heading>Formatting</heading>
+		<list>
+			<li>This sentence contains an <u>underlined</u> word.</li>
+			<li>This sentence contains a word in <b>bold</b> and one in <i>italics</i>.</li>
+			<li>This sentence contains a <span class="important">word</span> in a character style.</li>
+			<li>This sentence contains a manual<br/>line break.</li>
+		</list>
+	</section>
+	<section>
+		<heading>Repetitions</heading>
+		<p>This is a new sentence.</p>
+		<p>This is a <b>new</b> sentence.</p>
+		<p>Sentence number 2 contains 5 words.</p>
+	</section>
+	<section>
+		<heading>References</heading>
+		<p>This sentence contains a footnote<xref id="1">(1)</xref>
+		</p>
+		<p>This sentence contains a <a href="http://www.wikipedia.org" title="Link to Wikipedia">hyperlink</a>.</p>
+	</section>
+	<references>
+		<ref id="1">This is the text in the footnote.</ref>
+	</references>
+</document>
