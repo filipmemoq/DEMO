@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Welcome message displayed on the home screen -->
+    <string name="welcome_message">Witamy w memoQ TMS</string>
+
+    <!-- Placeholder text for input field -->
+    <string name="input_placeholder">Wprowadź tekst do przetłumaczenia</string>
+
+    <!-- Label for the translate button -->
+    <string name="translate_button">Tłumaczenie</string>
+
+    <!-- Message displayed when no text is entered -->
+    <string name="empty_input_warning">Wprowadź tekst do przetłumaczenia</string>
+
+    <!-- Label for the settings menu -->
+    <string name="settings_menu">Ustawienia</string>
+</resources>
