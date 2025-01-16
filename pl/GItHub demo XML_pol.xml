@@ -7,7 +7,7 @@
     <string name="input_placeholder">Wprowadź tekst do przetłumaczenia</string>
 
     <!-- Label for the translate button -->
-    <string name="translate_button">Tłumaczenie</string>
+    <string name="translate_button">Proszę przetłumaczyć</string>
 
     <!-- Message displayed when no text is entered -->
     <string name="empty_input_warning">Wprowadź tekst do przetłumaczenia</string>
