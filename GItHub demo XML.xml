@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Welcome message displayed on the home screen -->
-    <string name="welcome_message">Welcome to memoQ TMS</string>
+    <string name="welcome_message">Welcome to memoQ</string>
 
     <!-- Placeholder text for input field -->
     <string name="input_placeholder">Enter text to translate</string>
@@ -10,7 +10,7 @@
     <string name="translate_button">Translate</string>
 
     <!-- Message displayed when no text is entered -->
-    <string name="empty_input_warning">Please enter text to translate</string>
+    <string name="empty_input_warning">Please enter text</string>
 
     <!-- Label for the settings menu -->
     <string name="settings_menu">Settings {0} of {0}</string>
