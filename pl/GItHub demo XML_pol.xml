@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Welcome message displayed on the home screen -->
+    <string name="welcome_message">Witamy w memoQ TMS</string>
+
+    <!-- Placeholder text for input field -->
+    <string name="input_placeholder">Wprowadź tekst do przetłumaczenia</string>
+
+    <!-- Label for the translate button -->
+    <string name="translate_button">Tłumaczenie</string>
+
+    <!-- Message displayed when no text is entered -->
+    <string name="empty_input_warning">Wprowadź tekst do przetłumaczenia</string>
+
+    <!-- Label for the settings menu -->
+    <string name="settings_menu">Ustawienia {0} z {0}</string>
+
+    <!-- Repetition example -->
+    <string name="feature_reuse_1">Przetłumacz raz, użyj ponownie wszędzie</string>
+    <string name="feature_reuse_2">Przetłumacz raz, użyj ponownie wszędzie</string>
+
+    <!-- Fuzzy match examples -->
+    <string name="feature_fuzzy_1">Oszczędność czasu dzięki dopasowaniom częściowym</string>
+    <string name="feature_fuzzy_2">Oszczędność czasu dzięki niemal identycznym tłumaczeniom</string>
+    <string name="feature_fuzzy_3">Oszczędność czasu dzięki dopasowaniom przybliżonym</string>
+
+    <!-- Repetition example -->
+    <string name="feature_reuse_3">Przetłumacz raz, użyj ponownie wszędzie</string>
+</resources>
