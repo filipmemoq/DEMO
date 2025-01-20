@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Welcome message displayed on the home screen -->
-    <string name="welcome_message">Welcome to memoQ TMS</string>
+    <string name="welcome_message">Welcome to TranslatePro</string>
 
     <!-- Placeholder text for input field -->
     <string name="input_placeholder">Enter text to translate</string>
 
     <!-- Label for the translate button -->
-    <string name="translate_button">Please translate</string>
+    <string name="translate_button">Translate</string>
 
     <!-- Message displayed when no text is entered -->
-    <string name="empty_input_warning">Please enter text</string>
+    <string name="empty_input_warning">Please enter text to translate</string>
 
     <!-- Label for the settings menu -->
     <string name="settings_menu">Settings</string>
+
+    <!-- Repetition example -->
+    <string name="feature_reuse_1">Translate once, reuse everywhere</string>
+    <string name="feature_reuse_2">Translate once, reuse everywhere</string>
+
+    <!-- Fuzzy match examples -->
+    <string name="feature_fuzzy_1">Save time with partial matches</string>
+    <string name="feature_fuzzy_2">Save time with nearly matching translations</string>
+    <string name="feature_fuzzy_3">Save time with approximate matches</string>
+
+    <!-- Repetition example -->
+    <string name="feature_reuse_3">Translate once, reuse everywhere</string>
 </resources>
