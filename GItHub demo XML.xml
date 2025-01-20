@@ -13,7 +13,7 @@
     <string name="empty_input_warning">Please enter text to translate</string>
 
     <!-- Label for the settings menu -->
-    <string name="settings_menu">Settings {1} of {2}</string>
+    <string name="settings_menu">Settings {0} of {0}</string>
 
     <!-- Repetition example -->
     <string name="feature_reuse_1">Translate once, reuse everywhere</string>
