@@ -13,7 +13,7 @@
     <string name="empty_input_warning">Wprowadź tekst do przetłumaczenia</string>
 
     <!-- Label for the settings menu -->
-    <string name="settings_menu">Ustawienia</string>
+    <string name="settings_menu">Ustawienia {1} z {2}</string>
 
     <!-- Repetition example -->
     <string name="feature_reuse_1">Przetłumacz raz, użyj ponownie wszędzie</string>
