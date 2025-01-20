@@ -4,7 +4,7 @@
     <string name="welcome_message">Welcome to memoQ TMS</string>
 
     <!-- Placeholder text for input field -->
-    <string name="input_placeholder"><b>Enter text</b> to translate</string>
+    <string name="input_placeholder">Enter text to translate</string>
 
     <!-- Label for the translate button -->
     <string name="translate_button">Translate</string>
