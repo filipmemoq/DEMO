@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Welcome message displayed on the home screen -->
-    <string name="welcome_message">Witamy w memoQ</string>
+    <string name="welcome_message">Witamy</string>
 
     <!-- Placeholder text for input field -->
     <string name="input_placeholder">Wprowadź tekst do przetłumaczenia</string>
