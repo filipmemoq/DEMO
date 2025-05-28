@@ -10,7 +10,7 @@
     <string name="translate_button">Translate</string>
 
     <!-- Message displayed when no text is entered -->
-    <string name="empty_input_warning">Please enter text</string>
+    <string name="empty_input_warning">Please enter text for revision</string>
 
     <!-- Label for the settings menu -->
     <string name="settings_menu">Settings {0} of {0}</string>
@@ -20,8 +20,8 @@
     <string name="feature_reuse_2">Translate once, reuse everywhere</string>
 
     <!-- Fuzzy match examples -->
-    <string name="feature_fuzzy_1">Save time with partial matches</string>
-    <string name="feature_fuzzy_2">Save time with nearly matching translations</string>
+    <string name="feature_fuzzy_1">Save time with fuzzy matches</string>
+    <string name="feature_fuzzy_2">Save time with matching translations</string>
     <string name="feature_fuzzy_3">Save time with approximate matches</string>
 
     <!-- Repetition example -->
