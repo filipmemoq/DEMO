@@ -16,7 +16,7 @@
     <string name="settings_menu">Ustawienia {0} z {0}</string>
 
     <!-- Repetition example -->
-    <string name="feature_reuse_1">Przetłumacz raz, użyj ponownie w każdym miejscu</string>
+    <string name="feature_reuse_1">Przetłumacz raz, użyj ponownie wszędzie</string>
     <string name="feature_reuse_2">Przetłumacz raz, użyj ponownie wszędzie</string>
 
     <!-- Fuzzy match examples -->
@@ -25,5 +25,5 @@
     <string name="feature_fuzzy_3">Oszczędność czasu dzięki dopasowaniom przybliżonym</string>
 
     <!-- Repetition example -->
-    <string name="feature_reuse_3">Przetłumacz raz, użyj ponownie w każdym miejscu</string>
+    <string name="feature_reuse_3">Przetłumacz raz, użyj ponownie wszędzie</string>
 </resources>
