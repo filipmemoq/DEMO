@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Welcome message displayed on the home screen -->
-    <string name="welcome_message">Witamy</string>
+    <string name="welcome_message">Witamy w memoQ</string>
 
     <!-- Placeholder text for input field -->
     <string name="input_placeholder">Wprowadź tekst do przetłumaczenia</string>
@@ -17,7 +17,7 @@
 
     <!-- Repetition example -->
     <string name="feature_reuse_1">Przetłumacz raz, użyj ponownie w każdym miejscu</string>
-    <string name="feature_reuse_2">Przetłumacz raz, użyj ponownie w każdym miejscu</string>
+    <string name="feature_reuse_2">Przetłumacz raz, użyj ponownie wszędzie</string>
 
     <!-- Fuzzy match examples -->
     <string name="feature_fuzzy_1">Oszczędność czasu dzięki dopasowaniom częściowym</string>
